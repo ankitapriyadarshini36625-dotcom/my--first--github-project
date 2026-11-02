@@ -1,0 +1,6 @@
+order_id,product_category,quantity,price_per_unit
+101,Electronics,2,450.00
+102,Office_Supplies,10,15.50
+103,Electronics,1,1200.00
+104,Books,5,22.00
+105,Office_Supplies,3,45.00
